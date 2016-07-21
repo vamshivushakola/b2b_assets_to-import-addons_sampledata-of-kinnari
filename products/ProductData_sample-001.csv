@@ -1,0 +1,37 @@
+# code;ean;supercategories;approvalstatus;manufacturerName;manufacturerAID;unit;deliveryModes;deliveryTime;contentUnit;numberContentUnits;onlineDate;offlineDate;minOrderQuantity;maxOrderQuantity;erpGroupBuyer;erpGroupSupplier;supplierAlternativeAID;vendors
+1101690;028877574813;1360;approved;Black & Decker;DC6PAKRA;pieces;;;;;;;;;;;;default
+1101695;028877448688;1354;approved;Black & Decker;DC330K;pieces;;;;;;;;;;;;default
+1128762;065030792622;1358;approved;StarTech.com;CTK400LAN;pieces;;;;;;;;;;;;default
+1128763;065030792622;1358,brand_1518;approved;StarTech.com;CV150K;pieces;;;;;;;;;;;;default
+2116266;5,03505E+12;1596,brand_980,1595,brand_169;approved;Black & Decker;KA270K;pieces;;;;;;;;;;;;default
+2116274;5,03505E+12;1596,brand_980,1595,brand_169;approved;Black & Decker;KA310;pieces;;;;;;;;;;;;default
+2116275;5,03505E+12;1360,brand_980,1595,brand_169;approved;Black & Decker;KR703K;pieces;;;;;;;;;;;;default
+2116277;5,03505E+12;1360,brand_980,1595,brand_169;approved;Black & Decker;EPC14CABK;pieces;;;;;;;;;;;;default
+2116279;5,03505E+12;1360,brand_980;approved;Black & Decker;EPC12CABK;pieces;;;;;;;;;;;;default
+2116282;5,03505E+12;1360,brand_980;approved;Black & Decker;KD990KA;pieces;;;;;;;;;;;;default
+2116283;5,04E+12;1596,brand_980,1596,brand_980;approved;Black & Decker;KA86;pieces;;;;;;;;;;;;default
+2217258;4,01E+12;1358,brand_912,1358,brand_912;approved;Hama;8772;pieces;;;;;;;;;;;;default
+2222485;4,01E+12;1358,brand_912,1358,brand_912;approved;Hama;8735;pieces;;;;;;;;;;;;default
+3092788;;1598,brand_2834,1598,brand_2834;approved;CablesToGo;27375;pieces;;;;;;;;;;;;default
+3318057;5,04E+12;1631,brand_980,1631,brand_980;approved;Black & Decker;CD601;pieces;;;;;;;;;;;;default
+3592865;5,04E+12;1596,brand_980,1596,brand_980;approved;Black & Decker;KA191EK;pieces;;;;;;;;;;;;default
+3626881;4,00E+12;1359,brand_1714,1359,brand_1714;approved;Kaiser;4062;pieces;;;;;;;;;;;;default
+3715400;;1360,brand_753;approved;Bosch;603126200;pieces;;;;;;;;;;;;default
+3755201;3,17E+12;1360,brand_753;approved;Bosch;603941203;pieces;;;;;;;;;;;;default
+3755204;3,17E+12;1360,brand_753;approved;Bosch;603913403;pieces;;;;;;;;;;;;default
+3755205;3,17E+12;1360,brand_753;approved;Bosch;603944655;pieces;;;;;;;;;;;;default
+3755207;3,17E+12;1593,brand_753,1593,brand_753;approved;Bosch;603959200;pieces;;;;;;;;;;;;default
+3755210;3,17E+12;1360,brand_753;approved;Bosch;0603956T09;pieces;;;;;;;;;;;;default
+3755211;4,31E+12;1360,brand_753;approved;Bosch;603954000;pieces;;;;;;;;;;;;default
+3755212;3,17E+12;1360,brand_753;approved;Bosch;060395540G;pieces;;;;;;;;;;;;default
+3755213;4,31E+12;1593,brand_753,1593,brand_753;approved;Bosch;603957700;pieces;;;;;;;;;;;;default
+3755217;3,17E+12;1360,brand_753;approved;Bosch;060395550F;pieces;;;;;;;;;;;;default
+3755218;3,17E+12;1360,brand_753;approved;Bosch;603955401;pieces;;;;;;;;;;;;default
+3756515;3,17E+12;1360,brand_753;approved;Bosch;603952020;pieces;;;;;;;;;;;;default
+3758751;4,31E+12;1360,brand_753;approved;Bosch;0603956S01;pieces;;;;;;;;;;;;default
+3788611;4,00683E+12;1593,brand_4439;approved;Einhell;45.106.78;pieces;;;;;;;;;;;;default
+3788612;4,00683E+12;1593,brand_4439;approved;Einhell;45.107.02;pieces;;;;;;;;;;;;default
+3788614;4,00683E+12;1593,brand_4439;approved;Einhell;45.133.40;pieces;;;;;;;;;;;;default
+3887530;8,71036E+12;1595,brand_4515;approved;Skil;F0159004AA;pieces;;;;;;;;;;;;default
+3887124;;1595,brand_169;approved;Hitachi;10530;pieces;;;;;;;;;;;;default
+3887127;;1595,brand_169;approved;Hitachi;10580;pieces;;;;;;;;;;;;default
